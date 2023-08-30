@@ -182,7 +182,7 @@ int main()
     Node* newItem5 = newNode("Potion");
     appendNode(inventory,newItem5);
 
-    int len = 3;
+    int len = 5;
 
     while(!exit)
     {
